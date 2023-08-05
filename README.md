@@ -1,4 +1,4 @@
-# first-angular-app
+# Rental-Houses
 The first-angular-app App is an Angular application that allows users to search and view houses available for rent. It provides an easy-to-use interface to find houses based on various filters and criteria.
 Search for houses available for rent by location, available units, Laundary, etc.
 View detailed information about each house, including images, description, and amenities.
